@@ -1,3 +1,8 @@
+body{
+    background-color: black;
+    color: white;
+}
+
 img{
     margin-left: 28.5%;
 }
@@ -32,11 +37,6 @@ nav a{
 
 .lang{
     float: right;
-}
-
-body{
-    background-color: black;
-    color: white;
 }
 
 h1, h2, h3, h4, h5, h6{
