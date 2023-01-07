@@ -44,6 +44,10 @@ h1{
     text-align: center;
 }
 
+#maincontent_about{
+    text-align: center;
+}
+
 #alert{
     text-align: center;
     color: black;
@@ -52,6 +56,10 @@ h1{
 
 .active{
     background-color: blue;
+}
+
+.about_link{
+    padding-bottom: 7%;
 }
 
 footer{
