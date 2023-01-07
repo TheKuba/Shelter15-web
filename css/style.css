@@ -1,3 +1,15 @@
+#logo{
+    margin-left: 30%;
+}
+
+#cz{
+    margin-right: 0.5%;
+}
+
+.lang{
+    float: right;
+}
+
 body{
     background-color: black;
     color: white;
