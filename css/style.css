@@ -32,6 +32,10 @@ nav a{
     text-decoration: none;
 }
 
+p{
+
+}
+
 #cz{
     margin-right: 0.5%;
 }
@@ -44,8 +48,12 @@ h1{
     text-align: center;
 }
 
-#maincontent_about{
+#maincontent{
     text-align: center;
+}
+
+#space{
+    padding-bottom: 4%;
 }
 
 #alert{
