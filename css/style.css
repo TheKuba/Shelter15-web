@@ -4,12 +4,10 @@ body{
 }
 
 #logo{
+    width: 20%;
+    height: 20%;
+    margin: auto;
     display: block;
-    margin: auto;
-}
-
-nav{
-    margin: auto;
 }
 
 ul{
@@ -30,10 +28,6 @@ nav a{
     background-color: #3e4444;
     color: white;
     text-decoration: none;
-}
-
-p{
-
 }
 
 #cz{
