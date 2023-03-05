@@ -38,16 +38,19 @@ nav a{
     float: right;
 }
 
-h1{
+h1, h3, .name{
     text-align: center;
+    /*color: #024f6b;*/
+    color: #0a8dbc;
+}
+
+h2{
+    /*color: #0a8dbc;*/
+    color: #024f6b;
 }
 
 #maincontent{
     text-align: center;
-}
-
-#space{
-    padding-bottom: 4%;
 }
 
 #alert{
@@ -57,11 +60,19 @@ h1{
 }
 
 .active{
-    background-color: blue;
+    background-color: #0a8dbc;
+}
+
+.nav:hover{
+    background-color: #024f6b;
 }
 
 .about_link{
     padding-bottom: 7%;
+}
+
+.name{
+    text-decoration: none;
 }
 
 footer{
